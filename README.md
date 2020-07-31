@@ -2,14 +2,20 @@
 
 I am a web developer, who loves learning and using a variety of different technologies. Give me a challenge and I am go go go!
 
-I am currently working on my portfolio and increasing my skills with Deno, Typescript, and Vue (with some material design).
+You can reach me through email @ lundregan.ethan@gmail.com
 
-* You can reach me through email @ lundregan.ethan@gmail.com
+* 📚 I am currently working on my portfolio and increasing my skills with Deno, Typescript, and Vue (with some material design).
+* 🏢 Looking for one of those pesky job things, gotta get my code on!
 
-## Skills
+## Languages
 
-* HTML, CSS, JS
-* Vue, (including; Vuetify, Gridsome)
-* Typescript
-* SQL (postgresSQL) , JSON, API, REGEX
-* Node.js, Deno (including; Oak)
+<img align="left" width="50" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png">
+<img align="left" width="50" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png">
+<img align="left" width="50" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png">
+<img align="" width="50" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png">
+
+## Tools
+
+<img align="left" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png">
+<img align="left" width="50" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
+<img align="left" width="50" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Deno.svg">
