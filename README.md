@@ -20,3 +20,4 @@ You can reach me through email @ lundregan.ethan@gmail.com
 <img align="left" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png">
 <img align="left" width="50" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
 <img align="left" width="50" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Deno.svg">
+<img align="left" width="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
