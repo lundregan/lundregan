@@ -5,7 +5,7 @@ I am a web developer, who loves learning and using a variety of different techno
 You can reach me through email @ lundregan.ethan@gmail.com
 
 * 💻 Monday to saturday, at least 1 commit a day!
-* 📚 I am currently working on my portfolio and increasing my skills with Deno, Typescript, and Vue (with some material design).
+* 📚 I am currently working on my portfolio and increasing my skills with Node, Vue, and working with API's.
 * 🏢 Looking for one of those pesky job things, gotta get my code on!
 
 ## Languages
