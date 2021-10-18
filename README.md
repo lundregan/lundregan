@@ -5,7 +5,6 @@ I am a web developer, who loves learning and using a variety of different techno
 You can reach me through email @ lundregan.ethan@gmail.com
 
 * 📚 Currently working with Vue, Nuxt, and Node.
-* 🏢 Looking for one of those pesky job things, gotta get my code on!
 
 ## Languages
 
