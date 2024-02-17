@@ -1,6 +1,6 @@
 # Hey 👋, I'm <a href="https://lundregan.com" target="_blank">Ethan</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elundreagn) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lundregan1) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elundregan/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lundregandev) 
 
 Hey there! I'm a front-end developer with 3 years of experience (2 years at Honcho Agency). My programming spark ignited with Minecraft mods back in the day  – who knew that would lead to lessons from a Tomb Raider veteran? 🚀
 
