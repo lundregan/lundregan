@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge" />
-
 # 👋 Ethan Lundregan | Front-End Developer
 
 ## About Me
